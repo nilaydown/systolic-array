@@ -13,6 +13,8 @@ thing on a 3x3 example before pretending to understand the 256x256 version.
 
 ## Demo
 
+![demo](demo.gif)
+
 ```bash
 python3 run.py
 ```
