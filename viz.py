@@ -21,16 +21,16 @@ N = 3
 OUT_GIF = Path(__file__).parent / "demo.gif"
 
 # Palette
-BG = "#0e1116"
-CELL_BG = "#1a1f29"
+BG = "#ffffff"
+CELL_BG = "#f4f1ea"
 CELL_BORDER = "#2d3340"
-ACC_COLOR = "#f5d76e"
-ACC_DONE = "#9fe88a"
-A_COLOR = "#7cc4ff"
-B_COLOR = "#ff8b8b"
-TEXT = "#e6e9ef"
-MUTED = "#7a818d"
-TITLE = "#ffffff"
+ACC_COLOR = "#b8860b"
+ACC_DONE = "#cdebc1"
+A_COLOR = "#2980b9"
+B_COLOR = "#c0392b"
+TEXT = "#222222"
+MUTED = "#666666"
+TITLE = "#111111"
 
 
 def fmt_val(v):
